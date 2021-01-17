@@ -1,0 +1,20 @@
+
+There have some practice for you.
+
+HW1 is a image recognition problem, here have 10 categories(airplane,automobile,bird,cat,deer,dog,frog,horse,ship,truck), We need using Deep Learning skill to classify.
+
+Step 1: download the link below, choose cifar10.py file 
+Step 2: Open cifa10.py file through compiler(pycharm or jupyter etc.)
+Step 3: environment setting using pip command to install.(follow command below)
+
+Pls in the commamd line strike. 
+1. pip install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio===0.7.2 -f https://download.pytorch.org/whl/torch_stable.html (pytorch install with non cuda version)
+2. pip install torchsummary
+3. pip install matplotlib
+4. pip install scikit-learn
+5. pip install seaborn
+6. pip install pandas
+
+You can run the code when you finish install package, then think what's the result ? what's the number meaning for ?
+
+HW1 Cifar10 : https://drive.google.com/drive/folders/10Jw_vGMYPt6RpzmtvxRR_F6oa0QDbCJE?usp=sharing
