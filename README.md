@@ -1,4 +1,4 @@
-# Deep-learning-for-studend
+# Deep-learning-for-student
 
 deep learning for beginner
 
